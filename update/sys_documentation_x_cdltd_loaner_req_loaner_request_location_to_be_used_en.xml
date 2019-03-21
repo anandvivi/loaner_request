@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
     <sys_documentation element="location_to_be_used" label="Location to be used" language="en" table="x_cdltd_loaner_req_loaner_request">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>location_to_be_used</element>

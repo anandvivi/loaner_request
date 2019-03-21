@@ -1,5 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
     <sys_ui_form_sections form_id="8993681d689833007f440b6611ec494e" sys_domain="global" table="x_cdltd_loaner_req_loaner_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-03-21 00:10:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d77d267ddb54bb40f10da455ca96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_cdltd_loaner_req_loaner_request" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="28962341dd2003003399d83d70be0274">8993681d689833007f440b6611ec494e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="28962341dd2003003399d83d70be0274">1d93681d689833007f440b6611ec498e</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-03-21 00:10:21</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_cdltd_loaner_req_loaner_request</name>
             <roles/>
@@ -19,7 +34,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-03-19 00:50:51</sys_updated_on>
             <sys_user/>
-            <view display_value="Self Service" name="ess">ccaf3161b52313007f4453da95465b79</view>
+            <view display_value="Self Service" name="ess">28962341dd2003003399d83d70be0274</view>
             <view_name/>
         </sys_ui_form>
     </sys_ui_form_sections>
